@@ -22,7 +22,7 @@ namespace EmptyProject
       //  FindAllRefs
       //  GoToTool
       //  etc.
-
+      //master comment
       // Learn more.  Watch the 'Visual Studio 2017: First Look' course on LinkedIn Learning or Lynda.com
 
       // https://www.linkedin.com/learning/visual-studio-2017-first-look?u=104
